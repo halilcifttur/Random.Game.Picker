@@ -2,7 +2,7 @@
 
 It is an application that picks for you when you can't decide and choose what to play.
 
-![]([https://i.imgur.com/9lKcTbx.gif](https://github.com/halilcifttur/Random.Game.Picker/blob/master/Ico%20Files/ReadmeGIF/Sequence%2001_1.gif))
+![](https://github.com/halilcifttur/Random.Game.Picker/blob/master/Ico%20Files/ReadmeGIF/Sequence%2001_1.gif)
 
 ## How to Use:
 
